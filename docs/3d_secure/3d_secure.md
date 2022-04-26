@@ -3,6 +3,12 @@ tags: [3dsecure]
 ---
 # 3D secure
 
+
+![picture](../../assets/images/3dsecure_icon.png)
+![picture](../../assets/images/accountupdater_icon.png)
+
+
+
 <!-- textlint-disable stop-words -->
 3D (three-domain) Secure, also known as 3DS, is a security layer for checkout. It helps prevent fraud by requiring cardholders to authenticate with their issuing bank when making online purchases.
 
